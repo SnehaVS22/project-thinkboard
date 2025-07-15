@@ -20,7 +20,7 @@ A full-stack MERN application that allows users to create, update, view, and del
 
 ---
 
-#🛠️ Tech Stack
+##🛠️ Tech Stack
 🔹 Frontend
 React (with Vite)
 
@@ -58,7 +58,7 @@ Upstash Redis (for rate limiting)
 
 dotenv (environment variable management)
 
-⭐ Credits
+##⭐ Credits
 Background UI inspiration: bg.ibelick.com
 
 Deployment: Render.com
