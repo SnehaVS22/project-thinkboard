@@ -1,4 +1,4 @@
-# 🧠 THINKBOARD — Full-Stack Notes Management App
+#  THINKBOARD — Full-Stack Notes Management App
 
 A full-stack MERN application that allows users to create, update, view, and delete notes. This project showcases real-world development concepts including RESTful APIs, rate limiting with Upstash Redis, secure environment handling, and responsive frontend design using modern UI libraries.
 
